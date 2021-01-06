@@ -1,0 +1,183 @@
+8
+
+dir
+109
+svn://grupoclick.dnsalias.com/inmohostV2.0/trunk/inmohostV2.0/system/extra
+svn://grupoclick.dnsalias.com/inmohostV2.0
+
+
+
+2008-03-13T14:41:39.687375Z
+89
+atilio
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2a7d2c77-d8cd-af43-b717-7d736e21d4f4
+
+logoInmo.swf
+file
+
+
+
+
+2008-03-13T19:29:32.781125Z
+e9c955400dfd0617b995cb4cdf391ddb
+2007-10-22T18:46:17.406250Z
+1
+atilio
+has-props
+
+pngbehavior.htc
+file
+
+
+
+
+2008-03-13T19:29:32.765500Z
+130de886fb28af3636e92f5952811b54
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+logos
+dir
+
+calendario.php
+file
+
+
+
+
+2008-03-13T19:29:32.812375Z
+3fce6bd0ac91dc1fc42030fc5343e7af
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+banners
+dir
+
+paleta.php
+file
+
+
+
+
+2008-03-13T19:29:32.921750Z
+6004ed57560d9f174a9e2afe9c1f4201
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+classes
+dir
+
+graficos
+dir
+
+calendario.swf
+file
+
+
+
+
+2008-03-13T19:29:32.921750Z
+c8227f666678acc2e7c3585fe2c84534
+2007-10-22T18:46:17.406250Z
+1
+atilio
+has-props
+
+bannerInferior.xml
+file
+
+
+
+
+2008-03-13T19:29:32.937375Z
+90ec88a035171ad5cc22d91a3bc9f0a3
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+pngbehavior2.htc
+file
+
+
+
+
+2008-03-13T19:29:32.937375Z
+2d435ddfa0921d6c56c4011721c03807
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+paleta.swf
+file
+
+
+
+
+2008-03-13T19:29:32.968625Z
+2fb0389d9f12ae11e5643a9720880fac
+2007-10-22T18:46:17.406250Z
+1
+atilio
+has-props
+
+prp_fichaFotos.xml
+file
+
+
+
+
+2008-03-13T19:29:32.968625Z
+32bab103ed2826dfe75429dfce733ab7
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+bannerPrincipal.swf
+file
+
+
+
+
+2008-03-13T19:29:32.984250Z
+2d9e3c0ebac749b376f27542c44c2c6d
+2007-10-22T18:46:17.406250Z
+1
+atilio
+has-props
+
+tiny_mce
+dir
+
+rss
+dir
+
+prp_fotos.swf
+file
+
+
+
+
+2008-03-13T19:29:32.984250Z
+ed732144669df81910b9e5f47295a44e
+2007-10-22T18:46:17.406250Z
+1
+atilio
+has-props
+

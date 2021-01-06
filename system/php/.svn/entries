@@ -1,0 +1,142 @@
+8
+
+dir
+109
+svn://grupoclick.dnsalias.com/inmohostV2.0/trunk/inmohostV2.0/system/php
+svn://grupoclick.dnsalias.com/inmohostV2.0
+
+
+
+2008-05-22T13:36:41.671875Z
+109
+aldo
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2a7d2c77-d8cd-af43-b717-7d736e21d4f4
+
+imagen
+dir
+
+sec_head.php
+file
+
+
+
+
+2008-05-21T22:34:45.921875Z
+64a6d5d5984527c7bda87d28788dbd74
+2008-05-21T22:34:43.031250Z
+108
+aldo
+
+abms
+dir
+
+exportar
+dir
+
+mensajes
+dir
+
+conexion.php
+file
+
+
+
+
+2008-05-22T13:36:45.609375Z
+45c884ecb2ac123b98a24ef3106a9eba
+2008-05-22T13:36:41.671875Z
+109
+aldo
+
+funciones
+dir
+
+configArchivos.php
+file
+
+
+
+
+2008-03-28T20:11:25.156250Z
+e00c34e3033666694052c66de04cfe25
+2008-03-28T20:11:21.140625Z
+92
+gabriel
+
+sec_salir.php
+file
+
+
+
+
+2008-03-13T19:29:03.859250Z
+902ad9922cfffe2f49a4b5a165951695
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+config.php
+file
+
+
+
+
+2008-05-21T22:34:45.937500Z
+e18f5c8cf744c1617654a60cfa7e3b3a
+2008-05-21T22:34:43.031250Z
+108
+aldo
+
+sec_chequea.php
+file
+
+
+
+
+2008-05-21T22:34:45.953125Z
+9b9075e2e04616a75009f3ad26859fec
+2008-05-21T22:34:43.031250Z
+108
+aldo
+
+classes
+dir
+
+sec_chequea2.php
+file
+
+
+
+
+2008-03-13T19:29:03.890500Z
+e3d2d8fae356e3ec3d1fce1782dc71fb
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+configInmo.php
+file
+
+
+
+
+2008-05-21T22:34:45.968750Z
+17d5218774abaeee0575c3252a0d0e26
+2008-05-21T22:34:43.031250Z
+108
+aldo
+

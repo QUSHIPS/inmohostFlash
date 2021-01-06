@@ -1,0 +1,52 @@
+8
+
+dir
+109
+svn://grupoclick.dnsalias.com/inmohostV2.0/trunk/inmohostV2.0/system/extra/tiny_mce/plugins/devkit/css
+svn://grupoclick.dnsalias.com/inmohostV2.0
+
+
+
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2a7d2c77-d8cd-af43-b717-7d736e21d4f4
+
+devkit_ui.css
+file
+
+
+
+
+2008-03-13T19:29:17.281125Z
+ca3e9336bfb4bc511738f6d2d6693306
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+devkit.css
+file
+
+
+
+
+2008-03-13T19:29:17.281125Z
+1fdee80fdc34802395a507eb1054ae1f
+2007-10-22T18:46:17.406250Z
+1
+atilio
+

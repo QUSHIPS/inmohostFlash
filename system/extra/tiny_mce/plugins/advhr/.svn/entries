@@ -1,0 +1,88 @@
+8
+
+dir
+109
+svn://grupoclick.dnsalias.com/inmohostV2.0/trunk/inmohostV2.0/system/extra/tiny_mce/plugins/advhr
+svn://grupoclick.dnsalias.com/inmohostV2.0
+
+
+
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2a7d2c77-d8cd-af43-b717-7d736e21d4f4
+
+editor_plugin.js
+file
+
+
+
+
+2008-03-13T19:29:14.531125Z
+1d25cd04df7deff365a8fc69f4160bb6
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+jscripts
+dir
+
+langs
+dir
+
+images
+dir
+
+editor_plugin_src.js
+file
+
+
+
+
+2008-03-13T19:29:14.531125Z
+68e6475a20ad0add5b1586c1276b4a8d
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+css
+dir
+
+readme.txt
+file
+
+
+
+
+2008-03-13T19:29:14.546750Z
+fe81b122bcf0e8599bb841cca33f967a
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
+rule.htm
+file
+
+
+
+
+2008-03-13T19:29:14.546750Z
+9f0f25c967cf5c3b346442a4e7278b58
+2007-10-22T18:46:17.406250Z
+1
+atilio
+
